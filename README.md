@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Design and Programming
 - 💞️ I’m looking to collaborate on the community and learn more and more!
 - 📫 You can find me in my LinkedIn (Newton Santos)
-- 😄 Pronouns: He/They
 - ⚡ Fun fact: Brazilian!!!
 
 <!---
